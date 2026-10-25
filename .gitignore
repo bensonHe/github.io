@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+*.log
+*.tsbuildinfo
+/desktop-homepage.png
+/homepage_desktop.png
+/mobile_360_lifepage.png
